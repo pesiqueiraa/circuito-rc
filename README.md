@@ -16,5 +16,5 @@
 ## Circuito Físico
 
 <div style="text-align: center;">
-<img title="Led Interno" src="assets\video.gif" style="width: 70%;">
+<img title="Led Interno" src="assets\video.gif" style="width: 100%;">
 </div>
